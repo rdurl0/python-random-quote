@@ -9,7 +9,7 @@ def primary():
 
   last = 13
   rnd = random.randint(0, last)
-  vct = [1,3,5]
+  vct = [1:5]
   print(quotes[vct])
 
 if __name__== "__main__":
